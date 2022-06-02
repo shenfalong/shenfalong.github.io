@@ -9,6 +9,17 @@
 
 
 
+https://user-images.githubusercontent.com/16410867/171624952-a434c4b5-5460-44ab-bd71-a28bf0d746e2.mp4
+
+
+
+
+https://user-images.githubusercontent.com/16410867/171624961-35f55db7-c1b5-4622-b2ee-0ecbe3a16a0b.mp4
+
+
+
+
+
 ## Publication
 
 **Falong Shen**, Gang Zeng. *Semantic Image Segmentation via Guidance of Image Classification*. Journal of Neurocomputing 2018.
