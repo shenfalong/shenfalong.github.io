@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# 申发龙 (Frank Shen)
 
-You can use the [editor on GitHub](https://github.com/shenfalong/shenfalong.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+----
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Project
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Publication
 
-**Bold** and _Italic_ and `Code` text
+**Falong Shen**, Gang Zeng. *Semantic Image Segmentation via Guidance of Image Classification*. Journal of Neurocomputing 2018.
 
-[Link](url) and ![Image](src)
-```
+**Falong Shen**, Gang Zeng.*Gaussian Dilated Convolution for Semantic Image Segmentation* Pacific-Rim Conference on Multimedia (PCM), 2018. oral.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+ **Falong Shen**, Shuicheng Yan, Gang Zeng. *Neural Style Transfer via Meta Neworks.'' IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}, \textbf{2018}.
 
-### Jekyll Themes
+    Code- \url{https://github.com/FalongShen/styletransfer}
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shenfalong/shenfalong.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Falong Shen**, Rui Gan, Shuicheng Yan, Gang Zeng. \emph{``Semantic Segmentation via Structured Patch Prediction, Context CRF and Guidance CRF.'' IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}, \textbf{2017}.
 
-### Support or Contact
+    Code- \url{https://github.com/FalongShen/SegModel}.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Falong Shen**, Rui Gan. \emph{``Joint segmentation and classification with fully convolutional networks.'' International Conference on Systems and Informatics (ICSAI)}, \textbf{2016}.
+
+**Falong Shen**, Rui Gan, Gang Zeng. \emph{``Weighted residuals for very deep networks.'' International Conference on Systems and Informatics (ICSAI)}, \textbf{2016}.
+
+**Falong Shen**, JiYuan Zhang, Rui Gan, Jingdong Wang, Gang Zeng. \emph{``Layered Contextual Model For Face Alignment With Group Sparse Feature.''The 3rd IAPR Asian Conference on Pattern Recognition (ACPR)}, \textbf{2015}.
+
+  $-$ JiYuan Zhang, Rui Gan, Gang Zeng, \textbf{Falong Shen},  Hongbin Zha. \emph{``Trajectory-based Stereo Visual Odometry with Statistical Outlier Rejection.'' The 3rd IAPR Asian Conference on Pattern Recognition (ACPR)}, \textbf{2015}.
+
+$-$ 申发龙, 张进江. \emph{``单轴压缩剪应变局部化带分布的数值模拟及其对最大有效力矩准则的验证''}. 北京大学学报(自然科学版), \textbf{2013}.
