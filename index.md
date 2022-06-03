@@ -2,8 +2,6 @@
 ----
 shenfalong@pku.edu.cn
 
-[TOC]
-
 ## Projects
 ### Text2Video
 **Input:** text or text with images 
@@ -31,7 +29,9 @@ shenfalong@pku.edu.cn
 
 ### MusicVideo
 **Input:** mp3
+
 **Output:** mp4
+
 **What it does:**
 
 用户输入自己唱的一首歌, 算法配上视频得到MV.
@@ -65,7 +65,9 @@ shenfalong@pku.edu.cn
 
 ### StyleTransfer
 **Input:**  camera video image
+
 **Output:** stylish video image
+
 **What it does:**
 
 
