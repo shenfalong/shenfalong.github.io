@@ -53,8 +53,11 @@ shenfalong@pku.edu.cn
 
 
 ### AutoLabel
+
 **Input:** partially human annotation
+
 **Output:** fully annotation
+
 **What it does:** 提高标注人员的标注效率.  原理是利用有些标注样本容易, 可以进行过滤.
 
 
@@ -64,6 +67,7 @@ shenfalong@pku.edu.cn
 <img src="autolabel.jpg" alt="image-20220603175052484" style="zoom: 67%;" />
 
 ### StyleTransfer
+
 **Input:**  camera video image
 
 **Output:** stylish video image
@@ -77,6 +81,7 @@ shenfalong@pku.edu.cn
 
 
 **Example: **
+
 [<img src="styletransfer.jpg" alt="Watch the video" style="zoom:50%;" />](https://www.youtube.com/watch?v=NXcGG1bF180)
 
 
